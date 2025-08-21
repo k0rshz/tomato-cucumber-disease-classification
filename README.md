@@ -111,16 +111,19 @@ tomato-cucumber-disease-classification/
 ```bash  
 git clone https://github.com/k0rshz/tomato-cucumber-disease-classification.git  
 cd tomato-cucumber-disease-classification  
-  
+```
+    
 ### 2. Создайте виртуальное окружение (рекомендуется) 
 ```bash  
 python -m venv venv  
 source venv/bin/activate  # Linux/Mac  
 # или  
 venv\Scripts\activate     # Windows
-
+```
+   
 ### 3. Установите зависимости
 ```bash  
 pip install -r requirements.txt  
-
+```
+   
 ### 4. 
