@@ -68,15 +68,14 @@ tomato-cucumber-disease-classification/
   - Data augmentation (вращение, flip, цветовые изменения)   
   - Разморозка всех blocks (трансформер слоёв) 
 - **Оптимизатор**: AdamW  
-- **Batch size**: 32  
-- **Epochs**: XX  
+- **Batch size**: 32   
   
 ### 2. Результаты  
   
 | Модель       | Accuracy (test) | Loss  | Epoch |
 |--------------|-----------------|-------|-------|  
-| ViT (Tomato) | 90.67%          | 0.24  |  17   |  
-| ViT (Cucumber)| 91.2%          | 0.21  | 0.21  |  
+| ViT (Tomato) | 90.67%          | 0.72  |  17   |  
+| ViT (Cucumber)| 97.78%          | 0.55  |  18   |  
   
 ✅ Обе модели показали **более 90% accuracy** на отложенной выборке.  
   
