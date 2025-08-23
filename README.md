@@ -137,4 +137,7 @@ venv\Scripts\activate     # Windows
 pip install -r requirements.txt  
 ```
    
-### 4. 
+### 4. Запустите инференс
+```bash  
+python src/inference.py --image data/test_examples/tomato_late_blight.jpg
+```
