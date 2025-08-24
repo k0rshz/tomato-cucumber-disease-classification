@@ -13,8 +13,8 @@
 ## 📁 Структура репозитория
 tomato-cucumber-disease-classification/  
 ├── data/ # Датасеты (или ссылки)  
-├── notebooks/ # Ноутбуки с обучением  
 ├── models/ # Веса обученных моделей  
+├── notebooks/ # Ноутбуки с обучением  
 ├── reports/ # Графики, примеры данных  
 ├── src/ # Код (инференс)  
 ├── requirements.txt # Зависимости  
