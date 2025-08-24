@@ -17,7 +17,7 @@ tomato-cucumber-disease-classification/
 ├── data/ # Датасеты (или ссылки)  
 ├── notebooks/ # Ноутбуки с обучением  
 ├── models/ # Веса обученных моделей  
-├── results/ # Графики обучения, примеры данных  
+├── reports/ # Графики обучения, примеры данных  
 ├── src/ # Код (инференс)  
 ├── requirements.txt # Зависимости  
 └── README.md # Этот файл  
