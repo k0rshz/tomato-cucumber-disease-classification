@@ -1,0 +1,27 @@
+# === Виртуальные окружения ===
+venv/
+env/
+ENV/
+__pycache__/
+*.pyc
+
+# === PyTorch / ML ===
+models/*.pth
+models/*.pt
+
+# === Логи и кэш ===
+logs/
+runs/
+wandb/
+*.log
+
+# === OS / редакторы ===
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# === Build / dist ===
+dist/
+build/
+*.egg-info/
