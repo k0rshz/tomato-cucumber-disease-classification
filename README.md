@@ -103,7 +103,7 @@ tomato-cucumber-disease-classification/
 | Лучшая эпоха    | 6 |  
   
 📊 **График обучения**:  
-<img src="reports/training/species_convnext_loss_acc.png" width="600" alt="Species Classifier Training">  
+<img src="reports/species_graphics.png" width="600" alt="Species Classifier Training">  
   
 ---  
 
