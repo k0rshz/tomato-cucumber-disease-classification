@@ -1,12 +1,12 @@
 ## 🔗 Ссылки на датасеты  
 
-### 🍅 Томаты  
+### Томаты  
 - **Источники**:
   - [PlantWild_v2](https://tqwei05.github.io/PlantWild/) (подмножество)  
   - [Taiwan Tomato Dataset](https://data.mendeley.com/datasets/ngdgg79rzb/1)  
 - **Скачать подготовленный датасет (Google Drive)**:  
   [tomato_dataset.zip](https://drive.google.com/file/d/1-r1zRGyngkiAlCuHwcAzFL5rhwT07G8M/view?usp=drive_link)  
-### 🥒 Огурцы  
+### Огурцы  
 - **Источники**:  
   - [PlantWild_v2](https://tqwei05.github.io/PlantWild/) (подмножество)  
   - [CDRD (Cucumber Disease Recognition Dataset)](https://www.sciencedirect.com/science/article/pii/S2352340923004389)  
