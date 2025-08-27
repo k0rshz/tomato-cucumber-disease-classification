@@ -20,10 +20,10 @@
 ## 🖼️ Примеры изображений  
   
 ### Томаты (6 классов)  
-![Tomato Samples](reports/tomato_samples.png)  
+![Tomato Samples](../reports/tomato_samples.png)  
   
 ### Огурцы (6 классов)  
-![Cucumber Samples](reports/cucumber_samples.png)  
+![Cucumber Samples](../reports/cucumber_samples.png)  
 
 > 📌 Фото сделаны в реальных условиях: естественное освещение, сложный фон, разный ракурс.
 
