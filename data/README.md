@@ -5,7 +5,7 @@
   - [PlantWild_v2](https://tqwei05.github.io/PlantWild/) (подмножество)  
   - [Taiwan Tomato Dataset](https://data.mendeley.com/datasets/ngdgg79rzb/1)  
 - **Скачать подготовленный датасет (Google Drive)**:  
-  [tomato_dataset.zip](https://drive.google.com/file/d/1-r1zRGyngkiAlCuHwcAzFL5rhwT07G8M/view?usp=drive_link)  
+  [tomato_dataset.zip](https://drive.google.com/file/d/1mJUS9ioPTEaBWlcY0wpXCvNNB_F7PPbL/view?usp=drive_link)  
 ### Огурцы  
 - **Источники**:  
   - [PlantWild_v2](https://tqwei05.github.io/PlantWild/) (подмножество)  
@@ -20,10 +20,10 @@
 ## 🖼️ Примеры изображений  
   
 ### Томаты (6 классов)  
-![Tomato Samples](samples/tomato_samples_grid.png)  
+![Tomato Samples](reports/tomato_samples.png)  
   
 ### Огурцы (6 классов)  
-![Cucumber Samples](samples/cucumber_samples_grid.png)  
+![Cucumber Samples](reports/cucumber_samples.png)  
 
 > 📌 Фото сделаны в реальных условиях: естественное освещение, сложный фон, разный ракурс.
 
