@@ -86,7 +86,7 @@ def predict_species(model, image_tensor):
         probs = torch.softmax(output, dim=1)
         pred = torch.argmax(probs, dim=1).item()
         conf = probs[0][pred].item()
-    species = "tomato" if pred == 0 else "cucumber"
+    species = "Tomato" if pred == 0 else "Cucumber"
     return species, conf
 
 
